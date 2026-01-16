@@ -5,7 +5,6 @@ HUMAN = "🙂"
 AI = "🤖"
 EMPTY = " "
 
-# Mapping numbers 1–9 to board positions
 num_to_pos = {
     1: (0, 0), 2: (0, 1), 3: (0, 2),
     4: (1, 0), 5: (1, 1), 6: (1, 2),
@@ -142,3 +141,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
