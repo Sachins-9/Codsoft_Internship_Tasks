@@ -1,4 +1,4 @@
-# Codesoft_Internship_Tasks
+# CodSoft_Internship_Tasks
 
 # Task No.1
 
@@ -42,7 +42,8 @@ python TIC-TAC-TOE.py
 
 ## Author
 Name: Sontakke Sachin Namdev
-Course: Computer Engineering
+Course: Internship in AI at CodSoft
+        B.E. in Computer Engineering
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -84,7 +85,8 @@ Practice in Python programming and project structuring
 
 ## Author
 Name: Sontakke Sachin Namdev
-Course: Computer Engineering
+Course: Internship in AI at CodSoft
+        B.E. in Computer Engineering
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -121,6 +123,7 @@ User-friendly interactive console programs.
 
 ## Author
 Name: Sontakke Sachin Namdev
-Course: Computer Engineering
+Course: Internship in AI at CodSoft
+        B.E. in Computer Engineering
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
